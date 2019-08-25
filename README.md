@@ -1,1 +1,1 @@
-# Web-Database-Programming
+# Web-Database-Programming-Lab
